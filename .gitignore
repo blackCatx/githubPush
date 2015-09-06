@@ -41,17 +41,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
-
-
-*.[oa]
-*.lib
-*.sdf
-*.opensdf
-cocos2d/
-.git*
-proj.win32/Debug.win32/
-proj.android/
-proj.ios_mac/
-proj.linux/
-proj.wp8-xaml/
